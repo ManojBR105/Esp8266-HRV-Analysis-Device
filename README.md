@@ -1,1 +1,2 @@
 # Esp8266-HRV-Analysis-Device
+This device is built to acquire pulse samples of a subject and perform simple calcultions to output parameters like Avg BPM, Avg IBI, SDNN, RMSSD. The result is also stored in Sd card for later use. An Oled display(SSD1306) is used for UI and outputs a neat graphics of readings taken by the max30100 pulse oximeter sensor. Esp8366 was chosen for further integration with Internet Servers/Clouds for easy access.
